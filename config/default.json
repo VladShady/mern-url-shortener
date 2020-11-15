@@ -1,0 +1,6 @@
+{
+    "port": 5000,
+    "jwtSecret": "shady mern",
+    "mongoUri": "mongodb+srv://Shady:5567_5567@cluster0.e9mbf.azure.mongodb.net/app?retryWrites=true&w=majority",
+    "baseUrl": "http://localhost:5000"
+}
